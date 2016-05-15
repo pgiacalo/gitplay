@@ -1,4 +1,4 @@
-Adding a line
+a line
 Line 2
 Adding line 3
 Adding another line
